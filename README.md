@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @junn-cj, trying to acquire my Software Engineering degree
-- 👀 I’m interested in algorithms i guess
-- 🌱 I’m currently learning JavaEE
+- 👋 Hi, I’m @junn-cj, a recent graduate from Xiamen University Malaysia
+- 🌱 My expertise includes Springboot and MySQL
 
 
 <!---
